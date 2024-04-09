@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a47b3e2-bbe3-4e2e-aa84-b50c91dfcc1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/library_sp21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/61b_checks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/Jama-1.0.3.jar/1.0.3/Jama-1.0.3.jar-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/Jama-1.0.3.jar/1.0.3/Jama-1.0.3.jar-1.0.3.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/Jama-1.0.3.jar/1.0.3/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/Jama-1.0.3.jar/unknown/Jama-1.0.3.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/Jama-1.0.3.jar/unknown/Jama-1.0.3.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/Jama/1.0.3/Jama-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/Jama/1.0.3/Jama-1.0.3.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/Jama/1.0.3/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHgjdb.jar/1.0/PNHgjdb.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHgjdb.jar/1.0/PNHgjdb.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHgjdb.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHgjdb.jar/unknown/PNHgjdb.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHgjdb.jar/unknown/PNHgjdb.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHjpt.jar/1.0/PNHjpt.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHjpt.jar/1.0/PNHjpt.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHjpt.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHjpt.jar/unknown/PNHjpt.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHjpt.jar/unknown/PNHjpt.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHtools.jar/1.0/PNHtools.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHtools.jar/1.0/PNHtools.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHtools.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHtools.jar/unknown/PNHtools.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHtools.jar/unknown/PNHtools.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb-checkstyle.jar/1.0/PNHucb-checkstyle.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb-checkstyle.jar/1.0/PNHucb-checkstyle.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb-checkstyle.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb-checkstyle.jar/unknown/PNHucb-checkstyle.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb-checkstyle.jar/unknown/PNHucb-checkstyle.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb-f2007.jar/1.0/PNHucb-f2007.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb-f2007.jar/1.0/PNHucb-f2007.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb-f2007.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb-f2007.jar/unknown/PNHucb-f2007.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb-f2007.jar/unknown/PNHucb-f2007.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb.jar/1.0/PNHucb.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb.jar/1.0/PNHucb.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb.jar/unknown/PNHucb.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/PNHucb.jar/unknown/PNHucb.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/algs4.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/algs4.jar/1.0/algs4.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/algs4.jar/1.0/algs4.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/algs4.jar/unknown/algs4.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/algs4.jar/unknown/algs4.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/checkstyle-5.9-all.jar/5.9/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/checkstyle-5.9-all.jar/5.9/checkstyle-5.9-all.jar-5.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/checkstyle-5.9-all.jar/5.9/checkstyle-5.9-all.jar-5.9.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/checkstyle-5.9-all.jar/unknown/checkstyle-5.9-all.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/checkstyle-5.9-all.jar/unknown/checkstyle-5.9-all.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/checkstyle-7.4-all.jar/7.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/checkstyle-7.4-all.jar/7.4/checkstyle-7.4-all.jar-7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/checkstyle-7.4-all.jar/7.4/checkstyle-7.4-all.jar-7.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/checkstyle-7.4-all.jar/unknown/checkstyle-7.4-all.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/checkstyle-7.4-all.jar/unknown/checkstyle-7.4-all.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/classmexer.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/classmexer.jar/1.0/classmexer.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/classmexer.jar/1.0/classmexer.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/classmexer.jar/unknown/classmexer.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/classmexer.jar/unknown/classmexer.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/commons-math3-3.6.jar/3.6/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/commons-math3-3.6.jar/3.6/commons-math3-3.6.jar-3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/commons-math3-3.6.jar/3.6/commons-math3-3.6.jar-3.6.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/commons-math3-3.6.jar/unknown/commons-math3-3.6.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/commons-math3-3.6.jar/unknown/commons-math3-3.6.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/gjdb.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/gjdb.jar/1.0/gjdb.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/gjdb.jar/1.0/gjdb.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/gjdb.jar/unknown/gjdb.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/gjdb.jar/unknown/gjdb.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/gson-2.8.2.jar/2.8.2/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/gson-2.8.2.jar/2.8.2/gson-2.8.2.jar-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/gson-2.8.2.jar/2.8.2/gson-2.8.2.jar-2.8.2.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/gson-2.8.2.jar/unknown/gson-2.8.2.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/gson-2.8.2.jar/unknown/gson-2.8.2.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/hamcrest-core-1.3.jar/1.3/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/hamcrest-core-1.3.jar/1.3/hamcrest-core-1.3.jar-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/hamcrest-core-1.3.jar/1.3/hamcrest-core-1.3.jar-1.3.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/hamcrest-core-1.3.jar/unknown/hamcrest-core-1.3.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/hamcrest-core-1.3.jar/unknown/hamcrest-core-1.3.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-http-9.4.15.v20190215.jar/9.4.15/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-http-9.4.15.v20190215.jar/9.4.15/jetty-http-9.4.15.v20190215.jar-9.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-http-9.4.15.v20190215.jar/9.4.15/jetty-http-9.4.15.v20190215.jar-9.4.15.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-http-9.4.15.v20190215.jar/unknown/jetty-http-9.4.15.v20190215.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-http-9.4.15.v20190215.jar/unknown/jetty-http-9.4.15.v20190215.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-io-9.4.15.v20190215.jar/9.4.15/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-io-9.4.15.v20190215.jar/9.4.15/jetty-io-9.4.15.v20190215.jar-9.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-io-9.4.15.v20190215.jar/9.4.15/jetty-io-9.4.15.v20190215.jar-9.4.15.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-io-9.4.15.v20190215.jar/unknown/jetty-io-9.4.15.v20190215.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-io-9.4.15.v20190215.jar/unknown/jetty-io-9.4.15.v20190215.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-server-9.4.15.v20190215.jar/9.4.15/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-server-9.4.15.v20190215.jar/9.4.15/jetty-server-9.4.15.v20190215.jar-9.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-server-9.4.15.v20190215.jar/9.4.15/jetty-server-9.4.15.v20190215.jar-9.4.15.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-server-9.4.15.v20190215.jar/unknown/jetty-server-9.4.15.v20190215.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-server-9.4.15.v20190215.jar/unknown/jetty-server-9.4.15.v20190215.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-util-9.4.15.v20190215.jar/9.4.15/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-util-9.4.15.v20190215.jar/9.4.15/jetty-util-9.4.15.v20190215.jar-9.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-util-9.4.15.v20190215.jar/9.4.15/jetty-util-9.4.15.v20190215.jar-9.4.15.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-util-9.4.15.v20190215.jar/unknown/jetty-util-9.4.15.v20190215.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jetty-util-9.4.15.v20190215.jar/unknown/jetty-util-9.4.15.v20190215.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jh61b.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jh61b.jar/1.0/jh61b.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jh61b.jar/1.0/jh61b.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jh61b.jar/unknown/jh61b.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/jh61b.jar/unknown/jh61b.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/junit-4.12.jar/4.12/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/junit-4.12.jar/4.12/junit-4.12.jar-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/junit-4.12.jar/4.12/junit-4.12.jar-4.12.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/junit-4.12.jar/unknown/junit-4.12.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/junit-4.12.jar/unknown/junit-4.12.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/servlet-api.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/servlet-api.jar/1.0/servlet-api.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/servlet-api.jar/1.0/servlet-api.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/servlet-api.jar/unknown/servlet-api.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/servlet-api.jar/unknown/servlet-api.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/slf4j-api-1.7.26.jar/1.7.26/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/slf4j-api-1.7.26.jar/1.7.26/slf4j-api-1.7.26.jar-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/slf4j-api-1.7.26.jar/1.7.26/slf4j-api-1.7.26.jar-1.7.26.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/slf4j-api-1.7.26.jar/unknown/slf4j-api-1.7.26.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/slf4j-api-1.7.26.jar/unknown/slf4j-api-1.7.26.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/slf4j-simple-1.7.26.jar/1.7.26/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/slf4j-simple-1.7.26.jar/1.7.26/slf4j-simple-1.7.26.jar-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/slf4j-simple-1.7.26.jar/1.7.26/slf4j-simple-1.7.26.jar-1.7.26.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/slf4j-simple-1.7.26.jar/unknown/slf4j-simple-1.7.26.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/slf4j-simple-1.7.26.jar/unknown/slf4j-simple-1.7.26.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/spark-core-2.3.jar/2.3/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/spark-core-2.3.jar/2.3/spark-core-2.3.jar-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/spark-core-2.3.jar/2.3/spark-core-2.3.jar-2.3.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/spark-core-2.3.jar/unknown/spark-core-2.3.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/spark-core-2.3.jar/unknown/spark-core-2.3.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/stdlib-package.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/stdlib-package.jar/1.0/stdlib-package.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/stdlib-package.jar/1.0/stdlib-package.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/stdlib-package.jar/unknown/stdlib-package.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/stdlib-package.jar/unknown/stdlib-package.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/stdlib.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/stdlib.jar/1.0/stdlib.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/stdlib.jar/1.0/stdlib.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/stdlib.jar/unknown/stdlib.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/stdlib.jar/unknown/stdlib.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/ucb.jar/1.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/ucb.jar/1.0/ucb.jar-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/ucb.jar/1.0/ucb.jar-1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/ucb.jar/unknown/ucb.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/ucb.jar/unknown/ucb.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-api-9.4.15.v20190215.jar/9.4.15/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-api-9.4.15.v20190215.jar/9.4.15/websocket-api-9.4.15.v20190215.jar-9.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-api-9.4.15.v20190215.jar/9.4.15/websocket-api-9.4.15.v20190215.jar-9.4.15.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-api-9.4.15.v20190215.jar/unknown/websocket-api-9.4.15.v20190215.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-api-9.4.15.v20190215.jar/unknown/websocket-api-9.4.15.v20190215.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-client-9.4.15.v20190215.jar/9.4.15/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-client-9.4.15.v20190215.jar/9.4.15/websocket-client-9.4.15.v20190215.jar-9.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-client-9.4.15.v20190215.jar/9.4.15/websocket-client-9.4.15.v20190215.jar-9.4.15.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-client-9.4.15.v20190215.jar/unknown/websocket-client-9.4.15.v20190215.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-client-9.4.15.v20190215.jar/unknown/websocket-client-9.4.15.v20190215.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-common-9.4.15.v20190215.jar/9.4.15/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-common-9.4.15.v20190215.jar/9.4.15/websocket-common-9.4.15.v20190215.jar-9.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-common-9.4.15.v20190215.jar/9.4.15/websocket-common-9.4.15.v20190215.jar-9.4.15.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-common-9.4.15.v20190215.jar/unknown/websocket-common-9.4.15.v20190215.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-common-9.4.15.v20190215.jar/unknown/websocket-common-9.4.15.v20190215.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-server-9.4.15.v20190215.jar/9.4.15/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-server-9.4.15.v20190215.jar/9.4.15/websocket-server-9.4.15.v20190215.jar-9.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-server-9.4.15.v20190215.jar/9.4.15/websocket-server-9.4.15.v20190215.jar-9.4.15.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-server-9.4.15.v20190215.jar/unknown/websocket-server-9.4.15.v20190215.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-server-9.4.15.v20190215.jar/unknown/websocket-server-9.4.15.v20190215.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-servlet-9.4.15.v20190215.jar/9.4.15/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-servlet-9.4.15.v20190215.jar/9.4.15/websocket-servlet-9.4.15.v20190215.jar-9.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-servlet-9.4.15.v20190215.jar/9.4.15/websocket-servlet-9.4.15.v20190215.jar-9.4.15.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-servlet-9.4.15.v20190215.jar/unknown/websocket-servlet-9.4.15.v20190215.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/websocket-servlet-9.4.15.v20190215.jar/unknown/websocket-servlet-9.4.15.v20190215.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/xchart-3.5.1.jar/3.5.1/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/xchart-3.5.1.jar/3.5.1/xchart-3.5.1.jar-3.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/xchart-3.5.1.jar/3.5.1/xchart-3.5.1.jar-3.5.1.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/xchart-3.5.1.jar/unknown/xchart-3.5.1.jar-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/CS61B/xchart-3.5.1.jar/unknown/xchart-3.5.1.jar-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/algs4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/jh61b.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/masterpom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-clean-plugin/2.5/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.1/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.7.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.7.0/maven-compiler-plugin-3.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.7.0/maven-compiler-plugin-3.7.0.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.7.0/maven-compiler-plugin-3.7.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.7.0/maven-compiler-plugin-3.7.0.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-deploy-plugin/2.7/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-install-plugin/2.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-jar-plugin/2.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-plugins/22/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-plugins/23/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-plugins/24/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-resources-plugin/2.6/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-site-plugin/3.3/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.jar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/org/apache/maven/plugins/maven-surefire-plugin/2.21.0/maven-surefire-plugin-2.21.0.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/stdlib-package.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/ucb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-sp21/javalib/xchart-3.5.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GuitarHero.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deque/ArrayDeque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deque/Deque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deque/LinkedListDeque$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deque/LinkedListDeque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deque/LinkedListDequeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deque/MaxArrayDeque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deque/TestMaxArrayDeque$IntComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deque/TestMaxArrayDeque$StringLengthComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/deque/TestMaxArrayDeque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gh2/GuitarHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gh2/GuitarHeroLite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gh2/GuitarPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gh2/GuitarString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gh2/TTFAF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gh2/TestGuitarString.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <compileBeforeAnalyze>false</compileBeforeAnalyze>
+    <annotationTextRangeMarkup>false</annotationTextRangeMarkup>
+    <annotationGutterIcon>false</annotationGutterIcon>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2eqTYAYgNGaiYJCBezo1Km3ULJY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/tbw/csLearning/GuitarHero-java-ver.",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="GuitarHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gh2.GuitarHero" />
+      <module name="GuitarHero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gh2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GuitarHero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a47b3e2-bbe3-4e2e-aa84-b50c91dfcc1f" name="Changes" comment="" />
+      <created>1712631154235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712631154235</updated>
+      <workItem from="1712631155380" duration="21000" />
+      <workItem from="1712631247572" duration="189000" />
+      <workItem from="1712631439644" duration="609000" />
+      <workItem from="1712632052174" duration="23000" />
+      <workItem from="1712632460486" duration="102000" />
+      <workItem from="1712632565194" duration="49000" />
+      <workItem from="1712632662915" duration="43000" />
+      <workItem from="1712632716802" duration="146000" />
+      <workItem from="1712633400269" duration="178000" />
+      <workItem from="1712636275364" duration="174000" />
+      <workItem from="1712636694132" duration="470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
