@@ -1,4 +1,4 @@
-A java made game that can simulate the sound of guitar 37notes across two Octave. the skelton is made by cs61b stuff and completed by me.
+A java made game that can simulate the sound of guitar‘s 37notes across B1 to A4. the skelton is made by cs61b stuff and completed by me.
 # how to play
 > clone and run the GuitarHero file
 
